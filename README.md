@@ -11,17 +11,8 @@ Skills: HTML/CSS/BOOTSTRAP/JAVASCRIPT/AJAX/MYSQL/PHP/LARAVEL/PHOTOSHOP
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bidhancse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bidhan-nath-0790391b8/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Bidhan716)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/bidhan_dev_nath/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/BidhanNath12)  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=bidhancse)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bidhancse)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bidhancse&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bidhancse)  
-
-![GitHub metrics](https://metrics.lecoq.io/bidhancse)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bidhancse)  
-
 ![Profile views](https://gpvc.arturio.dev/bidhancse)  
+
