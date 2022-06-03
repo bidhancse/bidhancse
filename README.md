@@ -1,13 +1,12 @@
 
 ![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/C5616AQEfX7hscAZS1Q/profile-displaybackgroundimage-shrink_350_1400/0/1654234782999?e=1659571200&v=beta&t=qycZ3sYM9uf-T0qOsrRx8oUDKaiv2ZanjBHauGuSwNw)
 
-<div style="border-bottom: 1px solid #ddd;">
 ### Hi there 👋, I am Bidhan Nath
 
 👑 I am Web Developer<br>
 🖊️ Love to write code<br><br>
 ![Profile views](https://gpvc.arturio.dev/bidhancse)
-</div>
+
 
 I’m a Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with Laravel Framework but some Creativity I enjoy working with include Photoshop.
 
