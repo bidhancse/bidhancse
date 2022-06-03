@@ -5,6 +5,7 @@
 
 👑 I am Web Developer<br>
 🖊️ Love to write code<br><br>
+![Profile views](https://gpvc.arturio.dev/bidhancse)
 
 I’m a Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with Laravel Framework but some Creativity I enjoy working with include Photoshop.
 
@@ -29,5 +30,5 @@ I’m a Web developer who is passionate about making error-free websites with 10
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bidhancse&show_icons=true&count_private=true)  
 
-![Profile views](https://gpvc.arturio.dev/bidhancse)  
+  
 
