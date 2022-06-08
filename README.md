@@ -34,7 +34,7 @@ I’m a Web developer who is passionate about making error-free websites with 10
 <a href="https://instagram.com/bidhan_dev_nath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bidhan_dev_nath" height="30" width="40" /></a>
 </p>
 
-Github Profile Status :
+# Github Profile Status :
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bidhancse&show_icons=true&count_private=true)  
 
   
