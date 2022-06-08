@@ -26,8 +26,7 @@ I’m a Web developer who is passionate about making error-free websites with 10
 - 👯 I’m looking to collaborate on Github 
 - 📫 How to reach me: Instagram, Facebook and LinkedIn. 
 
-
-<h3 align="left">Connect with me:</h3>
+# Connect with me:
 <p align="left">
 <a href="https://fb.com/bidhan716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bidhan716" height="30" width="40" /></a>
 <a href="https://twitter.com/bidhannath12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bidhannath12" height="30" width="40" /></a>
