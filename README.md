@@ -2,6 +2,7 @@
 ![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/C5616AQEfX7hscAZS1Q/profile-displaybackgroundimage-shrink_350_1400/0/1654234782999?e=1659571200&v=beta&t=qycZ3sYM9uf-T0qOsrRx8oUDKaiv2ZanjBHauGuSwNw)
 
 ### Hi there 👋, I am Bidhan Nath
+# News Portal Project
 
 👑 I am Web Developer<br>
 🖊️ Love to write code<br><br>
