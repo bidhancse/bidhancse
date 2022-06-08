@@ -26,7 +26,7 @@ I’m a Web developer who is passionate about making error-free websites with 10
 - 👯 I’m looking to collaborate on Github 
 - 📫 How to reach me: Instagram, Facebook and LinkedIn. 
 
-### Github Profile Status :
+## Github Profile Status :
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bidhancse&show_icons=true&count_private=true) 
 
 ### Connect with me :
